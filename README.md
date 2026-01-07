@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0169-majority-element) |
+| [1672-richest-customer-wealth](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
