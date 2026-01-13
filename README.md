@@ -64,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
