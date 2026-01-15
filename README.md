@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0169-majority-element) |
+| [0643-maximum-average-subarray-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1672-richest-customer-wealth](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1672-richest-customer-wealth) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0728-self-dividing-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
