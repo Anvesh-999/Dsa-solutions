@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -134,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
