@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1672-richest-customer-wealth) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0728-self-dividing-numbers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
