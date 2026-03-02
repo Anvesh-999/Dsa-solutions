@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0728-self-dividing-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3516-find-closest-person](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3516-find-closest-person) |
 ## Sliding Window
 |  |
 | ------- |
