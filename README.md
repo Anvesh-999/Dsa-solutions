@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0881-boats-to-save-people](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1672-richest-customer-wealth) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0881-boats-to-save-people](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0912-sort-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0042-trapping-rain-water) |
+| [0881-boats-to-save-people](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0881-boats-to-save-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3794-reverse-string-prefix) |
 ## Stack
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
