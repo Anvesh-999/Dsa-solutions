@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0728-self-dividing-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3516-find-closest-person) |
