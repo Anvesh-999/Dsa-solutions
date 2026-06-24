@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0796-rotate-string) |
 | [1446-consecutive-characters](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1446-consecutive-characters) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3794-reverse-string-prefix](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3794-reverse-string-prefix) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0901-online-stock-span](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0946-validate-stack-sequences) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0946-validate-stack-sequences) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
