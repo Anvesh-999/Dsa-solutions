@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1672-richest-customer-wealth) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0796-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
