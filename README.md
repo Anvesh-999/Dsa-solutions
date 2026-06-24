@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0796-rotate-string) |
 | [1446-consecutive-characters](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1446-consecutive-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3794-reverse-string-prefix](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3794-reverse-string-prefix) |
 ## Trie
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [2390-removing-stars-from-a-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
