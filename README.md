@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0881-boats-to-save-people) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
