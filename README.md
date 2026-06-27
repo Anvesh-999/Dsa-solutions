@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0735-asteroid-collision) |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0912-sort-an-array) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0901-online-stock-span) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
