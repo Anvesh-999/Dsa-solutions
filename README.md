@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3340-check-balanced-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
