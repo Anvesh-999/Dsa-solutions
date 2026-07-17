@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0037-sudoku-solver) |
 | [1672-richest-customer-wealth](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
