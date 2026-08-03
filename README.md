@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
@@ -63,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## String
 |  |
