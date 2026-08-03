@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0164-maximum-gap) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0118-pascals-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Two Pointers
 |  |
