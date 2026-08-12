@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -262,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
