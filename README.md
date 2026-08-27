@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0796-rotate-string) |
 | [1446-consecutive-characters](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1446-consecutive-characters) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
