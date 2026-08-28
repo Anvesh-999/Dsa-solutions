@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0946-validate-stack-sequences) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
