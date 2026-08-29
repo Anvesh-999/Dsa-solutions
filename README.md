@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0796-rotate-string) |
 | [1446-consecutive-characters](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1446-consecutive-characters) |
@@ -286,4 +289,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
