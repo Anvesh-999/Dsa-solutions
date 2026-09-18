@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0912-sort-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0118-pascals-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String Matching
@@ -296,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
