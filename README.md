@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0020-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0796-rotate-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0118-pascals-triangle) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0728-self-dividing-numbers](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anvesh-999/Dsa-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Anvesh-999/Dsa-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -287,10 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0020-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -304,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
