@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0241-different-ways-to-add-parentheses) |
