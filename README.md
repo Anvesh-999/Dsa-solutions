@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0088-merge-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0268-missing-number) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0169-majority-element) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0049-group-anagrams) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anvesh-999/Dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
